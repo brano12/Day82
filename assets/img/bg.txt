@@ -1,0 +1,2 @@
+  repeat scroll center center/cover
+
